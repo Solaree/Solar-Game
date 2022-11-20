@@ -1,6 +1,6 @@
 # Solar-Game
 Simple randomizer game by me, fix by Lwitchy (Lwitchy#1935)
-![image](https://user-images.githubusercontent.com/115794865/202904393-9319c861-62ec-4f0d-9cc6-8580dcd7fb36.png)
+![image](https://user-images.githubusercontent.com/115794865/202905247-c76d6d4f-a4d3-4e51-935c-9e5a8e8bdd13.png)
 
 
 
