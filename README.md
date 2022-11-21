@@ -6,7 +6,7 @@ Simple randomizer game by me, fix by Lwitchy (Lwitchy#1935)
 
 HOW TO OPEN
 
-1. Download main.py file by clicking on "Source" button, after put it to your default folder (Usually it's C:\Users\Administrator).
+1. Download main.py file by clicking on "Code" button, after put it to your default folder (Usually it's C:\Users\Administrator).
 2. Launch code by typing in a terminal ```python main.py``` (python version 3.7 or higher required)
 
 
